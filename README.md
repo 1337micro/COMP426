@@ -1,1 +1,1 @@
-I use Boost Framework. This was obviously not written by me, but it is open source code.
+This is an OpenCL + OpenGL implementation of the boid algorithm
